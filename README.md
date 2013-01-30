@@ -18,7 +18,7 @@ The application has not been updated with retina ready art or 16x9 layout option
 
 ## Developers
 
-It was developed for [Polycot Labs, LLC](http://www.polycotlabs.com/), by a team organized by [Jeff Kramer](http://www.jeffkramer.com/), consisting of [Daniel Tamas] (https://twitter.com/dan_tamas) and [Alpesh Patel] (https://twitter.com/alpesh_harsoda) at [Logistic Infotech] (http://logisticinfotech.com/).
+It was developed for [Polycot Labs, LLC](http://www.polycotlabs.com/), by a team organized by [Jeff Kramer](http://www.jeffkramer.com/), consisting of [Daniel Tamas] (https://twitter.com/dan_tamas), an independent mobile developer and [Alpesh Patel] (https://twitter.com/alpesh_harsoda) of [Logistic Infotech] (http://logisticinfotech.com/).
 
 ## Feedback
 
